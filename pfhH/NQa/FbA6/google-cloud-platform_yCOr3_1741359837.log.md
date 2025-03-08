@@ -29,7 +29,6 @@ race, ethnicity, religion, or level of experience. We expect anyone contributing
 to the project to do the same.
 
 If any member of the community violates this code of conduct, the maintainers of
-this project may take action, removing issues, comments, and PRs or blocking
 accounts as deemed appropriate.
 
 If you are subject to or witness unacceptable behavior, or have any other

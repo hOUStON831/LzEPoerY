@@ -22,6 +22,5 @@
 # use the same name
 --log-prefix-job-id
 
-# Default runner image does not include enough.
 # https://github.com/nektos/act#default-runners-are-intentionally-incomplete
 -P ubuntu-latest=catthehacker/ubuntu:full-latest

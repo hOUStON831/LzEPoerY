@@ -10,5 +10,4 @@ module.exports = function ( eleventyConfig ) {
             input: "./Education/Codeworks/*.md",
             output: "./Education/Codeworks"
         }
-    }
 };

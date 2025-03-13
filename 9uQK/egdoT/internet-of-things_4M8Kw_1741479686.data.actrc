@@ -13,7 +13,6 @@
 # Remove containers after finishing a job, comment out for debugging
 --rm
 
-# Reuse the checkout from host, otherwise act will do docker cp that makes
 # running jobs a lot longer even on SSD. Clean up your .environment before
 # running it.
 --bind

@@ -7,7 +7,6 @@ module.exports = function ( eleventyConfig ) {
 
         markdownTemplateEngine: "njk",
         dir: {
-            input: "./Education/Codeworks/*.md",
             output: "./Education/Codeworks"
         }
 };

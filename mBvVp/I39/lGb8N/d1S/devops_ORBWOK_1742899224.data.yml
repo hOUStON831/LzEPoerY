@@ -13,7 +13,6 @@ targets:
   - id: release
     name: docker
     source: ghcr.io/getsentry/sentry-self-hosted
-    target: getsentry/sentry
   - id: latest
     name: docker
     source: ghcr.io/getsentry/sentry-self-hosted

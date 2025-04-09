@@ -100,7 +100,6 @@ To change all of your local protocols to SSH, you can do the following:
 > 
 > **Warning**
 > You may encounter following problem when you configure SSH.
->
 > ```bash
 > HP@DESKTOP-H1SBMME MINGW64 ~/.ssh
 > $ ~/.ssh/config

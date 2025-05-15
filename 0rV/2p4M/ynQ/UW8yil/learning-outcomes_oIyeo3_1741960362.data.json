@@ -3,4 +3,3 @@
     "data_dir": "app/data/",
     "graph_dir": "app/graphs/",
     "ray_dir": "app/ray_results/"
-}

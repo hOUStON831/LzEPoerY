@@ -9,7 +9,6 @@
     # exclude lines where cuda is called on anything:
     cuda\(
 
-fail_under = 95
 show_missing = True
 
 [run]

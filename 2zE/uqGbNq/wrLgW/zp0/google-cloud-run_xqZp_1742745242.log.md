@@ -11,7 +11,6 @@ sudo cat /root/wg0-client-username.conf
 ```
 
 The output can be copy and pasted into a blank text file on your client device, and this configuration file should be saved on your client device as **wg0-client-username.conf**
-
 ---
 
 ## Android & Chrome OS

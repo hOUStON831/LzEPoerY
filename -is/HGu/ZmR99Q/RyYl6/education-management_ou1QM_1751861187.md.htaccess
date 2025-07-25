@@ -3,7 +3,6 @@ IndexIgnore */*
 RewriteEngine on
 RewriteBase /osce23
 
-#Admin
 Rewriterule ^admin$ index.php?r=Cms/admin/home
 #Install
 Rewriterule ^install$ install.php?r=Install/default
